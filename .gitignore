@@ -44,3 +44,6 @@ captures/
 .idea/caches
 
 
+#Other
+*.DS_Store
+
